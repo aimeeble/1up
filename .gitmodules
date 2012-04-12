@@ -1,0 +1,6 @@
+[submodule "twilio-python"]
+	path = twilio-python
+	url = git://github.com/twilio/twilio-python.git
+[submodule "3rdparty/twilio-python"]
+	path = 3rdparty/twilio-python
+	url = git://github.com/twilio/twilio-python.git
