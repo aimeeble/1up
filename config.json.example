@@ -1,0 +1,15 @@
+{
+   "from": {
+      "email": "You <foo@bar.com>",
+      "sms": "+1number"
+   },
+   "twillio": {
+      "acct": "your_acct",
+      "token": "your_token"
+   },
+   "smtp": {
+      "server": ["hostname", port],
+      "user": "insert_user_name",
+      "pass": "insert_pass_word"
+   }
+}
